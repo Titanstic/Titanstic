@@ -1,6 +1,8 @@
 ## Hi, I'm Min Khant. 👋
 
 - 🔭 I’m a software developer...
+- 👨‍💻 Specializing in MERN-Stack Development
+- 💡 Experience: 2.5+ years in building admin panel and POS
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100013448561590) 
